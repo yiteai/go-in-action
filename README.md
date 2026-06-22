@@ -66,9 +66,9 @@
 ---
 ## 中文版
 
-# Go 的设计哲学：少即是多
+# Go 语言实战
 
-> 诞生背景、与 C++/Java/Rust 的定位差异
+> 语言核心 + 底层揭秘 + 工程实战 + AI 应用四位一体。深入 GMP 调度器、GC、Channel 源码；以 yiteai-dev-server 真实代码为案例，每章一个完整项目；系统讲解 Go 做 AI Agent、MCP Server、RAG 管道。53 章，市面唯一同时覆盖底层、工程和 AI 的 Go 书。
 
 **📖 在线免费阅读全文:[https://tools.yiteai.com/books/go](https://tools.yiteai.com/books/go)**
 
